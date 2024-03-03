@@ -1,5 +1,6 @@
-### Hi there 👋
+<img align="center" src="/Banner.jpg" alt="Banner" />
 
+<h1 align="center">Hi 👋, I'm Edmund Szeto</h1>
 <!--
 **EdmundSzetoUK/EdmundSzetoUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
