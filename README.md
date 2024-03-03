@@ -1,4 +1,4 @@
-<img align="center" src="/Banner.jpg" alt="Banner" />
+<img align="center" src="/image/Banner.jpg" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Edmund Szeto</h1>
 
