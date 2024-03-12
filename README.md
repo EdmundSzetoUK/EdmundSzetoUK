@@ -36,10 +36,12 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 <a href="www.linkedin.com/in/edmund-szeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edmundszeto" height="30" width="40" /></a>
 </p>
 
+---
 
-### Current Project
 
-#### Retail Data Analytsis - Reports & Dashboard
+## Current Project
+
+### A. Retail Data Analytsis - Reports & Dashboard
 1. Scraping and Cleaning Data
   * Objective: Develop an Excel-based data extraction and cleaning solution for retail sales data sourced from Qlikview and POS Navigator systems.
   * Process: Utilize Excel formulas and Macros to extract and preprocess raw data, ensuring accuracy and consistency.
@@ -61,7 +63,7 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
   * Process: Engage with colleagues from various departments to gather insights and align on objectives, utilizing Excel as a common platform for data analysis.
   * Outcome: Improved collaboration and synergy among team members, leading to more comprehensive analyses and actionable recommendations for driving 
 
-#### Warehouse System Migration
+### B. Warehouse System Migration
 
 1. Initiation
 * Objective: The primary goal of this project was to migrate the current financial and warehouse systems to a new integrated system that could efficiently handle sales, purchases, picking, warehouse allocation, and financial transactions.
