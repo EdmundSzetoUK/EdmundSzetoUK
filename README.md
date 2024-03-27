@@ -92,7 +92,7 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 
 
 ----
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,mysql,cpp,matlab,postman,stackoverflow,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,html,mysql,cpp,matlab,postman,stackoverflow,git,windows)](https://skillicons.dev)
 
 
 
