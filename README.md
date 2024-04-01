@@ -16,8 +16,9 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 | Excel Marco (VBA) | Waterfall Methodology   | XML |
 | Python            | Stakeholders Engagement | MS Office 365 |
 | SQL               | Change Management       | Cloud: AWS, Azure 	|
-| Dashboard         | Risk Management         | Jira, Confluence    |
-| Power BI          | Vendor Management       | UML  |
+| Tableau         | Risk Management         | Jira & Confluence    |
+| Dashboard         | Vendor Management       | UML  |
+|                 | Problem Solving         | Windows 11 & MacOS  |
 
 
 ### CERTIFICATION
