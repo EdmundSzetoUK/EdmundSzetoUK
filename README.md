@@ -34,7 +34,8 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 ### Connect with me
 
 <p align="left">
-<a href="www.linkedin.com/in/edmund-szeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edmundszeto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edmundszetouk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edmundszeto" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/edmundszeto" target="blank"><img align="center" src="image/icons8-tableau-software-48.png" alt="edmundszeto" height="30" width="40"/></a> 
 </p>
 
 ---
