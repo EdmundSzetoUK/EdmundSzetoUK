@@ -65,6 +65,19 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
   * Process: Engage with colleagues from various departments to gather insights and align on objectives, utilizing Excel as a common platform for data analysis.
   * Outcome: Improved collaboration and synergy among team members, leading to more comprehensive analyses and actionable recommendations for driving 
 
+#### Reports
+1. Daily and Weekly retail stores sales revenue & margin reports
+2. Daily retail stores sold all items reports
+3. Daily negative stores's stock reports
+4. All stores top 50 & 500 sold items report
+5. The stores sales revenue compare by week and by year reports
+6. Sale discount reports
+7. Member's loyalty card sale revenue and quantity report
+8. Warehouses' stock and location reports
+9. Items' category sale reports
+10. Supplier reports
+11. Salespreson KPI & outstanding reports
+
 ### B. Warehouse System Migration
 
 1. Initiation
