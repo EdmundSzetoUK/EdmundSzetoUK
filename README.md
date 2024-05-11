@@ -43,6 +43,11 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 
 ## Current Project
 
+### A. [Work Hours Calculator](https://github.com/EdmundSzetoUK/WorkHoursCalculator)
+This is a project which to create a new work hours calculer in Excel. 
+Please go to the link to more about requirements of user story and acceptance criteria.
+
+## Current Work Duties 
 ### A. Retail Data Analytsis - Reports & Dashboard
 1. Scraping and Cleaning Data
   * Objective: Develop an Excel-based data extraction and cleaning solution for retail sales data sourced from Qlikview and POS Navigator systems.
