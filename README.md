@@ -47,6 +47,9 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 This is a project which to create a new work hours calculer in Excel. 
 Please go to the link to more about requirements of user story and acceptance criteria.
 
+### B. [ExcelTutorial](https://github.com/EdmundSzetoUK/ExcelTutorial)
+This is summary Excel skills to be tutorial for basic and advance skills. 
+
 ## Current Work Duties 
 ### A. Retail Data Analytsis - Reports & Dashboard
 1. Scraping and Cleaning Data
