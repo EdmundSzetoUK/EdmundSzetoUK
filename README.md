@@ -43,11 +43,14 @@ Experienced IT Project Manager adept in both waterfall and agile methodologies, 
 
 ## Current Project
 
-### A. [Work Hours Calculator](https://github.com/EdmundSzetoUK/WorkHoursCalculator)
+### A. [BBC News RSS Feeds](https://github.com/EdmundSzetoUK/BBCNewsRSSFeeds)
+BBC News RSS feeds data analysis
+
+### B. [Work Hours Calculator](https://github.com/EdmundSzetoUK/WorkHoursCalculator)
 This is a project which to create a new work hours calculer in Excel. 
 Please go to the link to more about requirements of user story and acceptance criteria.
 
-### B. [ExcelTutorial](https://github.com/EdmundSzetoUK/ExcelTutorial)
+### C. [ExcelTutorial](https://github.com/EdmundSzetoUK/ExcelTutorial)
 This is summary Excel skills to be tutorial for basic and advance skills. 
 
 ## Current Work Duties 
