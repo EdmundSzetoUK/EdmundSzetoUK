@@ -117,8 +117,6 @@ This is summary Excel skills to be tutorial for basic and advance skills.
 * Handover: Completed the handover process, transferring ownership of the new system to the relevant departments and ensuring a smooth transition from the old system.
 
 
-----
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,mysql,cpp,matlab,postman,stackoverflow,git,windows)](https://skillicons.dev)
 
 
 
